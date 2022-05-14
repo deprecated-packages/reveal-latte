@@ -42,7 +42,7 @@ final class AssignedParametersVisitor extends NodeVisitorAbstract
     }
 
     /**
-     * @return \PhpParser\Node|null
+     * @return null|\PhpParser\Node
      */
     public function enterNode(Node $node)
     {
