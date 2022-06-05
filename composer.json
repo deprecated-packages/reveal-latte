@@ -4,7 +4,7 @@
     "description": "Rules for static analysis of Latte templates and Latte render() methods",
     "license": "MIT",
     "require": {
-        "php": ">=7.1",
+        "php": ">=7.2",
         "phpstan/phpstan": "^1.5.6",
         "latte/latte": "^2.11",
         "symplify/astral": "^10.0",
